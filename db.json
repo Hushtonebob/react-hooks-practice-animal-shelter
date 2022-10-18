@@ -7,7 +7,7 @@
       "age": 4,
       "weight": 1,
       "name": "Trident",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "2c902312-dfa3-446f-8b4b-5e115170d807",
@@ -16,7 +16,7 @@
       "age": 3,
       "weight": 1,
       "name": "Teddy",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "6057de4f-6725-4b9f-a0b1-1f3bd3ad04a6",
@@ -25,7 +25,7 @@
       "age": 2,
       "weight": 5,
       "name": "Hemingway",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "a7c8b608-0d39-401b-a693-1bc882f21425",
